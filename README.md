@@ -1,5 +1,3 @@
-# time_composition
-
 # Time Composition
 
 # Literature:
@@ -71,3 +69,7 @@ The technicalization of science consists in ignoring archetypes.
 To give meaning to this technical act, and to give its correct result the meaning of truth...the original thought was put aside.
 
 Technicization is what produces **loss of memory**, as was already the case in Plato's *Phœdrus.*
+
+# Prototype
+[[IMG_5637.HEIC]]
+[[IMG_5643.HEIC]]
