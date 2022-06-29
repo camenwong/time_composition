@@ -30,7 +30,11 @@ Steve Reich, minimalist. Steve Reich defines process music not as, "the process 
 
 # Score:
 
-Writing as a noise of Memories(plato), Graphical score (Xenakis)
+Writing as a noise of Memories(plato)
+
+Graphical score (Xenakis)
+
+Score as a documentation of improvisation
 
 # Sound:
 
