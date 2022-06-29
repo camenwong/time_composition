@@ -26,6 +26,8 @@ Buddhism spinning wheels;
 
 Meditation - repeatedly work, scan body from top to bottom and back, and again and again.
 
+Steve Reich, minimalist. Steve Reich defines process music not as, "the process of composition but rather pieces of music that are, literally, processes.
+
 # Score:
 
 Writing as a noise of Memories(plato), Graphical score (Xenakis)
