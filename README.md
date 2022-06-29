@@ -71,5 +71,5 @@ To give meaning to this technical act, and to give its correct result the meanin
 Technicization is what produces **loss of memory**, as was already the case in Plato's *Phœdrus.*
 
 # Prototype
-[[IMG_5637.HEIC]]
-[[IMG_5643.HEIC]]
+[[/IMG_5637.HEIC]]
+[[/IMG_5643.HEIC]]
