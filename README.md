@@ -8,8 +8,6 @@ Bernard Stiegler, TECHNICS AND TIME,1 *The Fault of Epimetheus*
 
 Alberto Castelli, On Western and Chinese conception of time: A comparative study
 
-Christopher Haworth, Protentions and Retentions of Xenakis and Cage: Nonhuman Actors, Genre and Time in Microsound
-
 # Keywords:
 
 ## TIME:
@@ -18,7 +16,30 @@ Looping time;
 
 Circular time; 
 
+>But while western thinking considers change within a unique process stretching ad infinitum, eastern thinking conceives change within a process that hold together repetition and transformation.
+
+>A clock is not a timeline but a circle for the simple reason that time does not begin or stop, it continues without beginning or end. In the same fashion, days and years are also circular
+
+>However a distinguish must be previously elicited: even though for the ancient Greeks nature repeated itself, such a repetition was a fate that men could not avoid, the recurrence of time is therefore related to a pre-arranged design. Nietzsche moves away from this passive understanding of life, in a sense that he offers to humanity a moment of choice where following the death of god, and so the trans-valuation of values, men are called to redefine their life not anymore in terms of destiny but free will.
+
+>Here lies one of the main differences between the two cultures: Christian theology divided time into past, present and future, and such a conception of time forced Western civilization to study nature in order to unveil the secret held by the mysterious future, and so they opened the sky and they dug up the earth to compete with nature and enrich themselves with a promise of Heaven. Asian civilization did not compete with nature for they never had a future to decode, the same divination is a practice used to adjust the present rather than the attempt to change coming events, Asians, China specifically, therefore did not challenge nature but rather accepted it.
+Christopher Haworth, Protentions and Retentions of Xenakis and Cage: Nonhuman Actors, Genre and Time in Microsound
+
+>And because China did not have the idea of future neither of responsibility, because China, out of fear, did not try to fill the gap between man and nature first, nor man and divine after, capitalism was replaced by a subsistence economy, which felt to have reached stability with the introduction of collectivism, the repetitiveness of the economic and social system led to conservatism, conservatism brought despotism in the political shape of socialism.
+
+>ancient Chinese thinkers viewed the world as a complete and complex organism where events happen the way they happen because of their position on the ever **moving cyclical universe**.
+
+>China is always been concerned about **enduring** rather than developing and
+duration is often synonymous with repetition, harmony is provided by an orthodoxy that can provides immobility: family system, kinship, rituals, the dynastic political apparatus, the extremely complex bureaucracy area, all attempts to **maintain** China as it is.
+
+>broadly speaking Chinese philosophy, gave China stability, the idea of an equilibrium ruling men’s destiny, a dialectic of opposition without synthesis and yet guaranteeing the balance of the universe while contemplating a resemblance of change.
+
+>Western philosophy therefore did not offer stability, it offered immortality. Western society did believe in the promise made by Christianity, believed in the after-life, a glorious stage of peace and prosperity to be reached either by divine election or personal achievements.
+
+
 Maintenance (Ukeles Feminism performance manifesto) Perpetuating temporality, repeat daily life; 
+
+>One could say that the core of maintenance is born from the life instinct, the perpetuation of life. Even more, it is the key of prolongation, it is the suspension of time, of some type of event, connection, relationship, development. Achtung! It is not development itself. It is something repetitive, to maintain a certain state or condition, a period of time where change is subtle or unnoticeable. It is like that unconscious habit of keeping a chewing gum in the mouth, and keep chewing that boring piece of plastic even if the flavor of it is over. Maintenance are also all those tasks one has to do, as an endless ritual stuck into the conception of everyday life. “Maintenance is a drag”. Maintenance is like a bug that one got used to. It nests quickly into unnoticed everyday things. It is everywhere. It is the unseen. Maintenance is a way of perpetuating a certain temporality, to keep things going.
 
 Accumulation of time (a piece of awareness of the audience);
 
