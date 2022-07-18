@@ -1,4 +1,4 @@
-# Time Composition
+# Time Composition - Returnity
 
 # Literature:
 
@@ -7,6 +7,13 @@ Paulo C. Chagas, Creativity with Apparatuses: from Chamber Music to Telematic Di
 Bernard Stiegler, TECHNICS AND TIME,1 *The Fault of Epimetheus*
 
 Alberto Castelli, On Western and Chinese conception of time: A comparative study
+
+Christopher Haworth, Protentions and Retentions of Xenakis and Cage: Nonhuman Actors, Genre and Time in Microsound
+
+Mierle Laderman Ukeles, “Maintenance Art: Proposal for an Exhibition ‘Care’” (1969)
+
+Sigmond Freud, Notiz über den "Wunderblock"
+
 
 # Keywords:
 
@@ -23,7 +30,6 @@ Circular time;
 >However a distinguish must be previously elicited: even though for the ancient Greeks nature repeated itself, such a repetition was a fate that men could not avoid, the recurrence of time is therefore related to a pre-arranged design. Nietzsche moves away from this passive understanding of life, in a sense that he offers to humanity a moment of choice where following the death of god, and so the trans-valuation of values, men are called to redefine their life not anymore in terms of destiny but free will.
 
 >Here lies one of the main differences between the two cultures: Christian theology divided time into past, present and future, and such a conception of time forced Western civilization to study nature in order to unveil the secret held by the mysterious future, and so they opened the sky and they dug up the earth to compete with nature and enrich themselves with a promise of Heaven. Asian civilization did not compete with nature for they never had a future to decode, the same divination is a practice used to adjust the present rather than the attempt to change coming events, Asians, China specifically, therefore did not challenge nature but rather accepted it.
-Christopher Haworth, Protentions and Retentions of Xenakis and Cage: Nonhuman Actors, Genre and Time in Microsound
 
 >And because China did not have the idea of future neither of responsibility, because China, out of fear, did not try to fill the gap between man and nature first, nor man and divine after, capitalism was replaced by a subsistence economy, which felt to have reached stability with the introduction of collectivism, the repetitiveness of the economic and social system led to conservatism, conservatism brought despotism in the political shape of socialism.
 
@@ -37,9 +43,26 @@ duration is often synonymous with repetition, harmony is provided by an orthodox
 >Western philosophy therefore did not offer stability, it offered immortality. Western society did believe in the promise made by Christianity, believed in the after-life, a glorious stage of peace and prosperity to be reached either by divine election or personal achievements.
 
 
-Maintenance (Ukeles Feminism performance manifesto) Perpetuating temporality, repeat daily life; 
+### Maintenance Art (Ukeles **Feminism** performance manifesto) Perpetuating temporality, repeat daily life; 
 
 >One could say that the core of maintenance is born from the life instinct, the perpetuation of life. Even more, it is the key of prolongation, it is the suspension of time, of some type of event, connection, relationship, development. Achtung! It is not development itself. It is something repetitive, to maintain a certain state or condition, a period of time where change is subtle or unnoticeable. It is like that unconscious habit of keeping a chewing gum in the mouth, and keep chewing that boring piece of plastic even if the flavor of it is over. Maintenance are also all those tasks one has to do, as an endless ritual stuck into the conception of everyday life. “Maintenance is a drag”. Maintenance is like a bug that one got used to. It nests quickly into unnoticed everyday things. It is everywhere. It is the unseen. Maintenance is a way of perpetuating a certain temporality, to keep things going.
+
+### Sigmond Freud
+
+>The model of Wunderblock - limited space in awareness. 
+
+>Reize -> Unbewussst -> Filter -> Bewusstsein -> Forgetting
+
+### Nietzsche - Eternal Recurrence
+
+the joyous science
+
+thus spoke zarathustra
+
+the will to power
+
+> Becoming and constant flux
+
 
 Accumulation of time (a piece of awareness of the audience);
 
@@ -49,7 +72,7 @@ Meditation - repeatedly work, scan body from top to bottom and back, and again a
 
 Steve Reich, minimalist. Steve Reich defines process music not as, "the process of composition but rather pieces of music that are, literally, processes.
 
-# Score:
+## Score:
 
 Writing as a noise of Memories(plato)
 
@@ -57,13 +80,13 @@ Graphical score (Xenakis)
 
 Score as a documentation of improvisation
 
-# Sound:
+## Sound:
 
 Natural Harmony (i imagine, if the paper gets black (the all history, contribution of awareness of the audience) it will approach this sound)
 
 Noise of Memories (inaccuracy)
 
-# Vilem Flusser:
+## Vilem Flusser:
 
 Open source interface, creativity, feedback in society
 
@@ -79,7 +102,7 @@ Christopher Small: Music → musicking  a term that captures music as a human ac
 
 Bruno Latour: Actor-Network Theorist (ANT)
 
-# Heidegger (TECHNICS AND TIME)
+## Heidegger (TECHNICS AND TIME)
 
 The world is already here, before Dasein.
 
@@ -97,8 +120,30 @@ To give meaning to this technical act, and to give its correct result the meanin
 
 Technicization is what produces **loss of memory**, as was already the case in Plato's *Phœdrus.*
 
+# Installation Description
+
+Title: Returnity
+(Generativ sound installation on circular time)
+
+Ancient eastern thinking conceives change within a process that holds together repetition and transformation. And there is no final state of the universe as Nietsche believes, that the world is in a constant state of flux, always changing and becoming, time is therefore infinite, there is no beginning nor ending, but it bends round into a circle. The installation Returnity presents a documentation of an improvisation within such a circular time, a feedback in the society, the extrange of pieces of the encounter's awarenesses. The improvisation, as Vilém Flusser suggests, is an incorporation with continually reprogrammed memories will replace the score. With the idea of an intuitive open source interface, it opens one's creativity by suggesting a life philosophy that in a cyclic time where every moment of time has its own reason to be and so does man. It is a meditation into the moment, repetition and maintenance.
+
+
+
 # Prototype
 ![1](https://user-images.githubusercontent.com/81091955/176518569-55ba3bca-c89c-48dd-855b-e9be9068369b.jpg)
 ![2](https://user-images.githubusercontent.com/81091955/176518585-9dc6bb10-ee6f-4d53-bc9c-abedb458d384.jpg)
 ![3](https://user-images.githubusercontent.com/81091955/176518604-09d3a850-8731-49a4-968d-8e004a3eb5bc.jpg)
+
+# Feedback
+
+Name suggest: Returnity
+
+https://www.textlog.de/freud-psychoanalyse-notiz-wunderblock.html
+
+http://www.earweego.net/#polipalis
+
+Yuk Hui
+
+Spiral(content) instead of Circular(body)?
+Which one shall I emphesize or point out both as a question
 
