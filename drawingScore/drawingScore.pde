@@ -45,7 +45,7 @@ void draw() {
       color colorValue = cam.pixels[locUnit];
       brightUnit += brightness(colorValue); //brightness 0 - 255 * 10 Units
     }
-    brightUnits[unit] = brightUnit;
+    brightUnits[unit] = brightUnit/10.0;
   }
 
   // draw red line indicator
