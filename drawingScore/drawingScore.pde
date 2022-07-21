@@ -12,10 +12,10 @@ void setup() {
   fullScreen(0);
   //size(1080,720);
   osc = new OscP5(this, 12000);
-  supercollider = new NetAddress("194.95.203.214", 57120);
+  supercollider = new NetAddress("194.95.203.190", 57120);
 
   String[] cameras = Capture.list();
-  brightUnits = new float[height/10];
+  brightUnits = new float[height/10]; // 72 intensities
 
   if (cameras.length == 0) {
     println("There are no cameras available for capture.");
@@ -37,13 +37,13 @@ void draw() {
   image(cam, 0, 0);
   //filter(THRESHOLD);
   cam.loadPixels();
-  for (int unit = 0; unit < cam.height/10; unit++) {
+  for (int unit = 0; unit < cam.height/10; unit++) { //y
     float brightUnit = 0;
-    for (int u = 1; u < 10; u++) {
+    for (int u = 0; u < 10; u++) {//y window
       int lineIndex = (unit * 10 + u);
       int locUnit = lineIndex * cam.width + cam.width/4;
       color colorValue = cam.pixels[locUnit];
-      brightUnit += brightness(colorValue); //brightness 0 - 255 * 38 Units = 9290
+      brightUnit += brightness(colorValue); //brightness 0 - 255 * 10 Units
     }
     brightUnits[unit] = brightUnit;
   }
